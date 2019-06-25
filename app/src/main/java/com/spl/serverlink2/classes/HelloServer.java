@@ -1,4 +1,4 @@
-package com.spl.serverlink2;
+package com.spl.serverlink2.classes;
 
 import java.io.IOException;
 import java.util.Map;

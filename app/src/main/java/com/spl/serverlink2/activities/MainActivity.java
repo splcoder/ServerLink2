@@ -1,7 +1,10 @@
-package com.spl.serverlink2;
+package com.spl.serverlink2.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.spl.serverlink2.R;
+import com.spl.serverlink2.classes.HelloServer;
 
 public class MainActivity extends AppCompatActivity {
 
